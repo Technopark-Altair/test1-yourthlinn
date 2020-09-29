@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nazvane"
+    }
+  },
+  "defaultProject": "nazvane",
+  "cli": {
+    "analytics": false
+  }
 }
